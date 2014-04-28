@@ -1,48 +1,11 @@
 
-For Ludum Dare 29
-=================
+Mining incorporated
+===================
 
-Rooms
------
+This is an unfinished game for Ludum Dare 29 with the theme "Beneath the Surface".
 
-* Baracks
-* Canteen/Mass hall
-* Office
-* Laboratory/Research
-* Storage
-* Deliveries
-* Corridor
+* code: <https://github.com/treeman/LD29>
+* timelapse: <https://www.youtube.com/watch?v=NIbr-mLi4DU>
 
-Workers
--------
-
-If time
-
-* Exhaustion level - maybe
-* Hunger - maybe
-* Happiness level - nope
-* Hygien - nope
-
-* Worker minions - yes!
-* Scientists - nope
-
-Ores/Minerals/Things to collect
-
-* Coal
-* Iron
-* Copepr
-* Gold
-* Silver
-* Diamond
-* Titanium
-* Platinum
-* Chrom
-* Aluminium
-* Uranium
-* Etherium
-
-1. Locate (?) - maybe have a hover over effect on level (estimated X ores...)
-2. Mine
-3. Refine      ore -> ingot
-4. Enhance (?) diamonds -> jewelry
+If you want to compile it you'll need sfml.
 
